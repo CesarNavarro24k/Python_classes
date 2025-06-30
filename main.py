@@ -21,4 +21,5 @@ age = input("Ingresa una edad: ")
 hobbie = input("Ingresa algo que te guste: ")
 password = input("Ingresa una contraseña: ")
 
+print("Hola desde rama2")
 Persona(name, age, hobbie, password)
